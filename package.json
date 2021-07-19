@@ -1,0 +1,16 @@
+{
+  "name": "ticket-bot",
+  "version": "1.0.0",
+  "description": "Basic Discord Ticket Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bucket",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^7.4.3",
+    "discord.js": "^12.5.3",
+    "enmap": "^5.8.7"
+  }
+}
